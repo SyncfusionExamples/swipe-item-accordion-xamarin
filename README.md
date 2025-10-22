@@ -6,7 +6,7 @@ To learn more about SfAccordion, check out the official user guide topics:
 
 - [Getting Started with Xamarin Accordion (SfAccordion)](https://help.syncfusion.com/xamarin/accordion/getting-started)
 
-
+**KB Link:** **[View document in Syncfusion Xamarin Knowledge base](https://www.syncfusion.com/kb/12166/how-to-swipe-item-in-xamarin-forms-sfaccordion)**
 
 ## xaml
 The accordion is bound to a view-model collection (`Info`) using `BindableLayout.ItemsSource`. Each `AccordionItem` contains a header that is a `SwipeView` with a left swipe `SwipeItem` exposing a "Favourite" action. The content area contains a simple `Label` for the description. 
